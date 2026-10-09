@@ -7,4 +7,4 @@ Ausgeliefert über jsDelivr, immer mit fester Version (Tag) verlinken:
 
 | Datei | Verwendung |
 |---|---|
-| `boot/kaasboll-660.glb` | 3D-Modell Kaasbøll 660 Fisker, Seite /de/boot (model-viewer, meshopt-komprimiert) |
+| `boot/kaasboll-660.glb` | 3D-Modell Kaasbøll 660 Fisker, Seite /de/boot (model-viewer, meshopt-komprimiert). v1: vereinfacht, 2,4 MB. v2: volle Geometrie, 5,4 MB (v1 wirkte auf Metallflächen zerknittert) |
