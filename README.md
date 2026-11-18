@@ -11,3 +11,4 @@ Ausgeliefert über jsDelivr, immer mit fester Version (Tag) verlinken:
 | `hero/hero-1080.mp4` | Film-Hero Startseite (Home 01, `.sb-film`), Desktop. Stummer Loop, H.264 1920x1080. v3: 36,7 s; v4: 39,7 s, Drill-Block faceless; v5: 57,9 s, HeroPremium „leben2“, leichtes Grading, 2,4 Mbit/s (jsDelivr max. 20 MB) |
 | `hero/hero-720.mp4` | dasselbe fürs Handy (bis 760 px), H.264 1280x720 |
 | `hero/hero-poster.jpg` | Standbild als Platzhalter und bei reduzierter Bewegung |
+| `brand/logo-weiss.png` | Logo (Berg-Symbol) weiß mit transparentem Grund, 300x300, für die transparente Kopfzeile über dem Film-Hero der Startseite (globales CSS). Ab v6 |
